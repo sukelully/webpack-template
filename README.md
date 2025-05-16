@@ -1,3 +1,3 @@
-# to-do-list
+# webpack-template
 
-WIP...
+Webpack template repository
